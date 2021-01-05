@@ -44,3 +44,6 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - Yuxin Wu (Facebook AI Research)
 - Chang Xiao (Columbia University)
 - Chaowei Xiao (University of Michigan)
+- Hongyang Zhang (Toyota Technological Institute at Chicago)
+- Huan Zhang (UCLA)
+- Dan Xu (University of Oxford)
