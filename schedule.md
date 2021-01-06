@@ -22,7 +22,7 @@ these times to your local time zone.
 | <span style="font-family: monospace;">12:00 pm - 01:00 pm</span> | Poster Session #1 |
 | <span style="font-family: monospace;">01:00 pm - 02:00 pm</span> | Lunch Break |
 ||**Session 3: Security Vulnerabilities of Machine Learning Models**|
-| <span style="font-family: monospace;">02:00 pm - 02:35 pm</span> | Invited Talk #5: Prof. Una-May O'Reilly |
+| <span style="font-family: monospace;">02:00 pm - 02:35 pm</span> | Invited Talk #5: Prof. Christopher Ré |
 | <span style="font-family: monospace;">02:35 pm - 03:10 pm</span> | Invited Talk #6: Prof. Alina Oprea |
 | <span style="font-family: monospace;">03:10 pm - 03:45 pm</span> | Invited Talk #7: Prof. David Wagner |
 | <span style="font-family: monospace;">03:45 pm - 03:55 pm</span> | Contributed Talk #2 |

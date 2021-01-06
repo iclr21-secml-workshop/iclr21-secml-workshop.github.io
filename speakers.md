@@ -5,7 +5,7 @@ layout: default
 # Speakers
 
 
-- Prof. Una-May O'Reilly (Massachusetts Institute of Technology) 
+- Prof. Christopher Ré (Stanford University) 
 - Prof. Zico Kolter (Carnegie Mellon University) 
 - Prof. Raquel Urtasun (University of Toronto/Uber)
 - Prof. David Wagner (UC Berkeley)
