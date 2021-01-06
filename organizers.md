@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Organisers
+# Organizers
 
 
 |<img src="/assets/images/xinyun.jpg" alt="Xinyun Chen" width="225"/>|<img src="/assets/images/cihang.jpg" alt="Cihang Xie" width="225"/>|<img src="/assets/images/ali.jpg" alt="Ali Shafahi" width="225"/>|

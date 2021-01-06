@@ -5,7 +5,7 @@ layout: default
 # Schedule
 
 This is the tentative schedule of the workshop. All slots are provided
-in Eastern Standard Time (EST) using
+in Pacific Time (PT) using
 a 12h format. Use [this time zone converter](https://www.thetimezoneconverter.com) to convert
 these times to your local time zone.
 
@@ -13,7 +13,7 @@ these times to your local time zone.
 ## Day 1
 
 
-|  **Time (EST)**                                            | **Event**                   |
+|  **Time (PT)**                                            | **Event**                   |
 |  <span style="font-family: monospace;">08:45 am - 09:00 am</span> | Opening Remarks                |
 
 **Session 1: Adversarial Attacks against Machine Learning Models**

@@ -11,7 +11,7 @@ navigation:
   # Accepted Papers: "/papers"
   Organizers: "/organizers"
   Program Committee: "/committee"
-  FAQ: "/faq"
+  # FAQ: "/faq"
 
 markdown: kramdown
 
